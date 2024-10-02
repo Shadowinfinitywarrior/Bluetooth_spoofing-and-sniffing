@@ -31,7 +31,8 @@ Installation:
 Clone this repository:
 
 
-git clone https://github.com/your-username/bluetooth-tool.git
+git clone https://github.com/Shadowinfinitywarrior/Bluetooth_spoofing-and-sniffing.git
+
 cd bluetooth-tool
 
 Install the required Python packages:
